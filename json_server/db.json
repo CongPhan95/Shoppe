@@ -1,0 +1,107 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Mắt Kính Gọng Tròn Phong Cách Retro Cho Nữ Mắt Kính Gọng Tròn Phong Cách Retro Cho Nữ",
+            "price": 199000,
+            "price_current": 119000,
+            "category_product": "Mắt kính nữ",
+            "attribute_product": "Gọng tròn",
+            "inventory": 1000
+        },
+        {
+            "id": 2,
+            "name": "Giày thể thao nam Đức Sport G5548 (39-43) tặng tất khử mùi",
+            "price": 350000,
+            "price_current": 299000,
+            "category_product": "Giày Dép Nam",
+            "attribute_product": "Giày thể thao",
+            "inventory": 300
+        },
+        {
+            "id": 3,
+            "name": "[Rẻ Vô Địch Áo cotton tay lỡ Unisex Do you have such -- Tom and Jerry",
+            "price": 66000,
+            "price_current": 33000,
+            "category_product": "Thời Trang Nữ",
+            "attribute_product": "Áo thun",
+            "inventory": 95
+        },
+        {
+            "id": 4,
+            "name": "[AP2234] Áo thun tay lỡ unisex nam nữ TOM dáng suông thụng phom rộng basic thấm hút mồ hôi",
+            "price": 120000,
+            "price_current": 89000,
+            "category_product": "Thời Trang Nữ",
+            "attribute_product": "Áo thun",
+            "inventory": 195
+        },
+        {
+            "id": 5,
+            "name": "Áo hoa cổ vuông phong cách ngọt ngào gợi cảm cho nữ",
+            "price": 183000,
+            "price_current": 95000,
+            "category_product": "Thời Trang Nữ",
+            "attribute_product": "Áo kiểu",
+            "inventory": 4571
+        },
+        {
+            "id": 5,
+            "name": "Áo hoa cổ vuông phong cách ngọt ngào gợi cảm cho nữ",
+            "price": 183000,
+            "price_current": 95000,
+            "category_product": "Thời Trang Nữ",
+            "attribute_product": "Áo kiểu",
+            "inventory": 4571
+        }
+    ],
+    "images": [
+        {
+            "id": 1,
+            "name": "Áo hoa cổ vuông",
+            "path": "https://cf.shopee.vn/file/84e1a3dd826bc184fd7e6af3fe4f6e53"
+        },
+        {
+            "id": 2,
+            "name": "Áo thun tay lỡ",
+            "path": "https://cf.shopee.vn/file/4eab8e9389ff4c8d0acd5b24500326c7"
+        },
+        {
+            "id": 3,
+            "name": "Áo cotton tay lỡ",
+            "path": "https://cf.shopee.vn/file/0f1fa7752f7d57a091672a33ad47e932"
+        },
+        {
+            "id": 4,
+            "name": "Giày thể thao nam",
+            "path": "https://cf.shopee.vn/file/5a49e88cb43fd9d690dfb30eb8315513"
+        },
+        {
+            "id": 5,
+            "name": "Mắt kính gọng tròn",
+            "path": "https://cf.shopee.vn/file/8d090e77aa3e9b43530b4a8ea6909884_tn"
+        }
+    ],
+    "image_product": [
+        {
+            "imageId": 1,
+            "productId": 5
+        },
+        {
+            "imageId": 2,
+            "productId": 4
+        },
+        {
+            "imageId": 3,
+            "productId": 3
+        },
+        {
+            "imageId": 4,
+            "productId": 2
+        },
+        {
+            "imageId": 5,
+            "productId": 1
+        }
+    ]
+}
